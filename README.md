@@ -25,8 +25,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chenyu-k&show_icons=true&locale=en" alt="chenyu-k" /></p>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChenYu-K&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%207%20mins-blue)

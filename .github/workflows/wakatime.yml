@@ -12,5 +12,5 @@ jobs:
     steps:
       - uses: chenyu-k/chenyu-k@master
         with:
-          WAKATIME_API_KEY: ${{ secrets.26deed28-601a-4c60-a3e2-c6b888ab92b3 }}
+          WAKATIME_API_KEY: ${{ 26deed28-601a-4c60-a3e2-c6b888ab92b3 }}
           GH_TOKEN: ${{ secrets.Wakatime }}

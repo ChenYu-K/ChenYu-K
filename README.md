@@ -1,4 +1,80 @@
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
+
+**🐱 My GitHub Data** 
+
+> 🏆 145 Contributions in the Year 2022
+ > 
+> 📦 166.7 kB Used in GitHub's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 24 Public Repositories 
+ > 
+> 🔑 2 Private Repositories  
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    84 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.72% 
+🌆 Daytime    157 commits    ████████░░░░░░░░░░░░░░░░░   33.12% 
+🌃 Evening    180 commits    █████████░░░░░░░░░░░░░░░░   37.97% 
+🌙 Night      53 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.18%
+
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday       113 commits    ██████░░░░░░░░░░░░░░░░░░░   23.84% 
+Tuesday      70 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.77% 
+Wednesday    64 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.5% 
+Thursday     97 commits     █████░░░░░░░░░░░░░░░░░░░░   20.46% 
+Friday       26 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.49% 
+Saturday     46 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.7% 
+Sunday       58 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.24%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Tokyo
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
+**I Mostly Code in HTML** 
+
+```text
+HTML                     4 repos             ██████████░░░░░░░░░░░░░░░   40.0% 
+VBScript                 1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   10.0% 
+Python                   1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   10.0% 
+MATLAB                   1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   10.0% 
+SCSS                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   10.0%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/ChenYu-K/ChenYu-K/main/charts/bar_graph.png) 
+
+
+ Last Updated on 27/06/2022 09:51:12 UTC
 <!--END_SECTION:waka-->
 
 ![](https://komarev.com/ghpvc/?username=ChenYu-K&color=ff69b4)

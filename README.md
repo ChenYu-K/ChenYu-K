@@ -2,17 +2,19 @@
 ![](https://komarev.com/ghpvc/?username=ChenYu-K&color=ff69b4)
 
 
-<h1 align="center">Hi 👋, I'm Yu Chen</h1>
+<h1 align="center">Hi 👋, I'm Yu Chen 
+</h1> 
 <h3 align="center">a Ph.D Student from China</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chenyu-k&label=Profile%20views&color=0e75b6&style=flat" alt="chenyu-k" /> </p>
 
-- 🔭 I’m currently studying on Osaka city university [Mechanical behavior of hybrid joint that bolted friction joint combing with bearing type bolts](https://www.researchgate.net/profile/Yu-Chen-505)
+- 🔭 I’m currently studying on Osaka city university 
+- 🧑‍🎓 Now, I’m study in [Mechanical behavior of hybrid joint that bolted friction joint combing with bearing type bolts](https://www.researchgate.net/profile/Yu-Chen-505).  You can find my paper in ORCID <a href="https://orcid.org/0000-0002-1187-4761"> <img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" /> 0000-0002-1187-4761 </a> or in ResearchGate [Yu Chen](https://www.researchgate.net/profile/Yu-Chen-505)
+
 
 - 🌱 I’m currently learning **ML Algorithms**
 
-- 📝 I regularly write articles on [chenyu-k.com](chenyu-k.com) , also in ResearchGate ![](https://raw.githubusercontent.com/ChenYu-K/ChenYu-K/main/charts/researchgate.svg) [Yu Chen](https://www.researchgate.net/profile/Yu-Chen-505)
-
+- 📝 I regularly write articles on [chenyu-k.com](chenyu-k.com) 
 - 💬 Ask me about **Bridge Engineering, Python**
 
 - 📫 How to reach me **cy519234505@gmail.com**
@@ -20,7 +22,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://stackoverflow.com/users/16734188" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="16734188" height="30" width="40" /></a>
+<a href="[https://www.w3schools.com/cs/](https://www.researchgate.net/profile/Yu-Chen-505)" target="_blank" rel="noreferrer"> <img align="center" src="https://raw.githubusercontent.com/ChenYu-K/ChenYu-K/main/charts/researchgate.svg" alt="csharp" width="35" height="35"/> </a>
 </p>
+
 
 
 <h3 align="left">Languages and Tools:</h3>

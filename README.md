@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **ML Algorithms**
 
-- 📝 I regularly write articles on My owb blog: [chenyu-k.com](chenyu-k.com) 
+- 📝 I regularly write articles on My own blog: [chenyu-k.com](chenyu-k.com) 
 - 💬 Ask me about **Bridge Engineering, Python**
 
 - 📫 How to reach me **cy519234505@gmail.com**

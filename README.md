@@ -1,12 +1,8 @@
-
-![](https://komarev.com/ghpvc/?username=ChenYu-K&color=ff69b4)
-
-
 <h1 align="center">Hi 👋, I'm Yu Chen 
 </h1> 
 <h3 align="center">a Ph.D Student from China</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chenyu-k&label=Profile%20views&color=0e75b6&style=flat" alt="chenyu-k" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=chenyu-k&label=Profile%20views&color=0e75b6&style=flat&color=ff69b4" alt="chenyu-k" /> </p>
 
 - 🔭 I’m currently studying on Osaka city university 
 - 🧑‍🎓 Now, I’m study in [Mechanical behavior of hybrid joint that bolted friction joint combing with bearing type bolts](https://www.researchgate.net/profile/Yu-Chen-505).  You can find my paper in ORCID <a href="https://orcid.org/0000-0002-1187-4761"> <img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" /> 0000-0002-1187-4761 </a> or in ResearchGate [Yu Chen](https://www.researchgate.net/profile/Yu-Chen-505)

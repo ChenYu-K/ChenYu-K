@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **ML Algorithms**
 
-- 📝 I regularly write articles on [chenyu-k.com](chenyu-k.com)
+- 📝 I regularly write articles on [chenyu-k.com](chenyu-k.com) , also in ResearchGate ![]() [Yu Chen](https://www.researchgate.net/profile/Yu-Chen-505)
 
 - 💬 Ask me about **Bridge Engineering, Python**
 

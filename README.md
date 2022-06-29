@@ -2,19 +2,23 @@
 </h1> 
 <h3 align="center">a Ph.D Student in Osaka city university but from China</h3>
 
-<!-- ![](https://raw.githubusercontent.com/ChenYu-K/ChenYu-K/main/charts/raining-pixel.gif) -->
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=E536F7&vCenter=true&lines=Nice+to+meet+you+~~~;I'm+sleeping+now+%F0%9F%92%A4)](https://git.io/typing-svg)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chenyu-k&label=Profile%20views&color=0e75b6&style=flat&color=ff69b4" alt="chenyu-k" /> </p>
 
+---
+
 - 🔭 I’m currently studying on [Mechanical behavior of hybrid joint that bolted friction joint combing with bearing type bolts](https://www.researchgate.net/profile/Yu-Chen-505).  You can find my paper in ORCID <a href="https://orcid.org/0000-0002-1187-4761"> <img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" /> 0000-0002-1187-4761 </a> or in ResearchGate [Yu Chen](https://www.researchgate.net/profile/Yu-Chen-505)
 
+<img align="right" width="200" height="200" src="https://raw.githubusercontent.com/ChenYu-K/ChenYu-K/main/charts/raining-pixel.gif">
+     
 - 🌱 I’m currently learning **ML Algorithms**
 
 - 📝 I regularly write articles on My own blog: [chenyu-k.com](chenyu-k.com) 
 - 💬 Ask me about **Bridge Engineering, Python**
 
 - 📫 How to reach me **cy519234505@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -30,6 +34,7 @@
 <h3 align="left">Github Status:</h3>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chenyu-k&show_icons=true&locale=en&theme=radical" alt="chenyu-k" /></p>
 
+---
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-4%20hrs%2012%20mins-blue)

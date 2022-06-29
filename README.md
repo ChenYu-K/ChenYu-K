@@ -2,6 +2,8 @@
 </h1> 
 <h3 align="center">a Ph.D Student in Osaka city university but from China</h3>
 
+<!-- ![](https://raw.githubusercontent.com/ChenYu-K/ChenYu-K/main/charts/raining-pixel.gif) -->
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=E536F7&vCenter=true&lines=Nice+to+meet+you+~~~;I'm+sleeping+now+%F0%9F%92%A4)](https://git.io/typing-svg)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chenyu-k&label=Profile%20views&color=0e75b6&style=flat&color=ff69b4" alt="chenyu-k" /> </p>
 

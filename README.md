@@ -37,7 +37,7 @@
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-411%20hrs%2058%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-415%20hrs%2016%20mins-blue)
 
 **I'm a Night 🦉** 
 
@@ -68,13 +68,13 @@ Sunday       40 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Other                    39 mins             █████████████████████████   100.0%
+Other                    3 hrs 17 mins       █████████████████████████   100.0%
 
 🔥 Editors: 
-Word                     39 mins             █████████████████████████   100.0%
+Word                     3 hrs 17 mins       █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-Unknown Project          39 mins             █████████████████████████   100.0%
+Unknown Project          3 hrs 17 mins       █████████████████████████   100.0%
 
 ```
 
@@ -91,7 +91,7 @@ JavaScript               1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 19/09/2022 18:50:45 UTC
+ Last Updated on 20/09/2022 18:49:06 UTC
 <!--END_SECTION:waka-->
 
 ![Visitor Count](https://profile-counter.glitch.me/ChenYu-K/count.svg)

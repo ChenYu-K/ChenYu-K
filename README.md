@@ -100,6 +100,18 @@ JavaScript               1 repo              ██░░░░░░░░░�
 
 ![Visitor Count](https://profile-counter.glitch.me/ChenYu-K/count.svg)
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+ 
+### Profile Views
+
+![](https://count.getloli.com/get/@ChenYu-K.github.readme)
+</br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</br>
+
+
 <!--  -->
 <!-- # Powerby -->
 <!-- [views-counter](https://github.com/antonkomarev/github-profile-views-counter) -->

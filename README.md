@@ -17,7 +17,7 @@
 - 📝 I regularly write articles on my blog: [chenyu-k.com](https://www.chenyu-k.com/)
 - 💬 Ask me about **Bridge Engineering, Python**
 
-- 📫 How to reach me **cy519234505@gmail.com**
+- 📫 How to reach me **yu.chen@lyconeko.com**
 
 
 <h3 align="left">Connect with me:</h3>

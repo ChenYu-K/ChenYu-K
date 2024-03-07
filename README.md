@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yu Chen 
 </h1> 
-<h3 align="center">a Ph.D Student in Osaka city university but from China</h3>
+<h3 align="center">a Ph.D Student in Osaka city university from China</h3>
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=E536F7&vCenter=true&lines=Nice+to+meet+you+~~~;I'm+gonna+crash+out+%F0%9F%92%A4)](https://git.io/typing-svg)

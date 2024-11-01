@@ -114,6 +114,8 @@ JavaScript               1 repo              ██░░░░░░░░░�
 </br>
 
 
+<figure><embed src="https://wakatime.com/share/@498009ed-f9e3-4dd5-be78-f87e631a4431/9902a985-451f-4593-9085-c77a0f966044.svg"></embed></figure>
+
 <!--  -->
 <!-- # Powerby -->
 <!-- [views-counter](https://github.com/antonkomarev/github-profile-views-counter) -->

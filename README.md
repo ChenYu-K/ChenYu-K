@@ -39,10 +39,11 @@
 
 
 
-![](https://wakatime.com/share/@498009ed-f9e3-4dd5-be78-f87e631a4431/9902a985-451f-4593-9085-c77a0f966044.svg)
 
 
 <h3 align="left"> Coding Activity: </h3>
+
+![](https://wakatime.com/share/@498009ed-f9e3-4dd5-be78-f87e631a4431/9902a985-451f-4593-9085-c77a0f966044.svg)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 

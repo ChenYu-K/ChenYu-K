@@ -6,6 +6,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=E536F7&vCenter=true&lines=Nice+to+meet+you+~~~;I'm+gonna+crash+out+%F0%9F%92%A4)](https://git.io/typing-svg)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chenyu-k&label=Profile%20views&color=0e75b6&style=flat&color=ff69b4" alt="chenyu-k" /> </p>
 
+<!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-415%20hrs%2026%20mins-blue)
+
 ---
 
 - 🔭 I’m currently studying on [Mechanical behavior of hybrid joint that bolted friction joint combing with bearing type bolts](https://www.researchgate.net/profile/Yu-Chen-505).  You can find my paper in ORCID <a href="https://orcid.org/0000-0002-1187-4761"> <img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" /> 0000-0002-1187-4761 </a> or in ResearchGate [Yu Chen](https://www.researchgate.net/profile/Yu-Chen-505)
@@ -36,8 +39,7 @@
 
 ---
 
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-415%20hrs%2026%20mins-blue)
+
 
 **I'm a Night 🦉** 
 

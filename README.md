@@ -37,6 +37,20 @@
 <h3 align="left">Github Status:</h3>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chenyu-k&show_icons=true&locale=en&theme=radical" alt="chenyu-k" /></p>
 
+
+
+![](https://wakatime.com/share/@498009ed-f9e3-4dd5-be78-f87e631a4431/9902a985-451f-4593-9085-c77a0f966044.svg)
+
+
+### Profile Views
+
+![](https://count.getloli.com/get/@chenyu-k?theme=asoul)
+</br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</br>
+
+
 ---
 
 
@@ -104,16 +118,9 @@ JavaScript               1 repo              ██░░░░░░░░░�
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
  
-### Profile Views
-
-![](https://count.getloli.com/get/@chenyu-k?theme=asoul)
-</br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</br>
 
 
-![](https://wakatime.com/share/@498009ed-f9e3-4dd5-be78-f87e631a4431/9902a985-451f-4593-9085-c77a0f966044.svg)
+
 
 <!--  -->
 <!-- # Powerby -->

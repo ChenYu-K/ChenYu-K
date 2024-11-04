@@ -18,3 +18,5 @@ jobs:
           SHOW_OS: "False"
           SHOW_LOC_CHART: "False"
           SHOW_SHORT_INFO: "False"
+          SHOW_UPDATED_DATE: "True"
+          HOW_TOTAL_CODE_TIME: "False"

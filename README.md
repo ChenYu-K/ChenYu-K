@@ -7,7 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chenyu-k&label=Profile%20views&color=0e75b6&style=flat&color=ff69b4" alt="chenyu-k" /> </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-415%20hrs%2026%20mins-blue)
+![Code Time](https://wakatime.com/badge/user/498009ed-f9e3-4dd5-be78-f87e631a4431.svg)
 
 ---
 

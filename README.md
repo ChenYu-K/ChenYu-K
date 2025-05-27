@@ -60,7 +60,7 @@
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C649%20hrs%2011%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C652%20hrs%209%20mins-blue)
 
 **I'm an Early 🐤** 
 
@@ -89,13 +89,16 @@ Sunday                   109 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Other                    6 hrs 7 mins        █████████████████████████   100.00 % 
+Other                    6 hrs 7 mins        ████████████████████░░░░░   81.21 % 
+Python                   1 hr 25 mins        █████░░░░░░░░░░░░░░░░░░░░   18.79 % 
 
 🔥 Editors: 
-Chrome                   6 hrs 7 mins        █████████████████████████   100.00 % 
+Chrome                   6 hrs 7 mins        ████████████████████░░░░░   81.21 % 
+Cursor                   1 hr 25 mins        █████░░░░░░░░░░░░░░░░░░░░   18.79 % 
 
 🐱‍💻 Projects: 
-Pointcloud-bridge        6 hrs 7 mins        █████████████████████████   100.00 % 
+Pointcloud-bridge        6 hrs 7 mins        ████████████████████░░░░░   81.21 % 
+concrete_defects_pcd     1 hr 25 mins        █████░░░░░░░░░░░░░░░░░░░░   18.79 % 
 ```
 
 **I Mostly Code in Jupyter Notebook** 
@@ -111,7 +114,7 @@ TeX                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 26/05/2025 18:46:20 UTC
+ Last Updated on 27/05/2025 18:48:45 UTC
 <!--END_SECTION:waka-->
 
 ![Visitor Count](https://profile-counter.glitch.me/ChenYu-K/count.svg)

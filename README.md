@@ -60,6 +60,8 @@
 ---
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C777%20hrs%2045%20mins-blue)
+
 **I Mostly Code in Python** 
 
 ```text
@@ -73,7 +75,7 @@ TeX                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 16/09/2025 18:47:35 UTC
+ Last Updated on 17/09/2025 18:47:26 UTC
 <!--END_SECTION:waka-->
 
 ![Visitor Count](https://profile-counter.glitch.me/ChenYu-K/count.svg)

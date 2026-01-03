@@ -60,44 +60,6 @@
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C847%20hrs%2044%20mins-blue)
-
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                507 commits         █████░░░░░░░░░░░░░░░░░░░░   20.08 % 
-🌆 Daytime                994 commits         ██████████░░░░░░░░░░░░░░░   39.37 % 
-🌃 Evening                818 commits         ████████░░░░░░░░░░░░░░░░░   32.40 % 
-🌙 Night                  206 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.16 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   476 commits         █████░░░░░░░░░░░░░░░░░░░░   18.85 % 
-Tuesday                  660 commits         ███████░░░░░░░░░░░░░░░░░░   26.14 % 
-Wednesday                436 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.27 % 
-Thursday                 502 commits         █████░░░░░░░░░░░░░░░░░░░░   19.88 % 
-Friday                   176 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.97 % 
-Saturday                 162 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.42 % 
-Sunday                   113 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Tokyo
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -111,7 +73,7 @@ TeX                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 02/01/2026 18:51:52 UTC
+ Last Updated on 03/01/2026 18:50:05 UTC
 <!--END_SECTION:waka-->
 
 ![Visitor Count](https://profile-counter.glitch.me/ChenYu-K/count.svg)

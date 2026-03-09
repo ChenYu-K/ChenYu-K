@@ -60,7 +60,7 @@
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C871%20hrs%2041%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C871%20hrs%2050%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
@@ -89,15 +89,13 @@ Sunday                   116 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Markdown                 29 mins             █████████████████████████   100.00 % 
+Markdown                 13 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Cursor                   15 mins             █████████████░░░░░░░░░░░░   53.77 % 
-VS Code                  13 mins             ████████████░░░░░░░░░░░░░   46.23 % 
+VS Code                  13 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-GKC                      15 mins             █████████████░░░░░░░░░░░░   53.77 % 
-Unknown Project          13 mins             ████████████░░░░░░░░░░░░░   46.23 % 
+Unknown Project          13 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -113,7 +111,7 @@ TeX                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 08/03/2026 18:57:43 UTC
+ Last Updated on 09/03/2026 19:15:46 UTC
 <!--END_SECTION:waka-->
 
 ![Visitor Count](https://profile-counter.glitch.me/ChenYu-K/count.svg)

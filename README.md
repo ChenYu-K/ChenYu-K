@@ -89,16 +89,13 @@ Sunday                   108 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Markdown                 13 mins             ██████████░░░░░░░░░░░░░░░   38.96 % 
-TeX                      11 mins             ████████░░░░░░░░░░░░░░░░░   33.47 % 
-Other                    9 mins              ███████░░░░░░░░░░░░░░░░░░   27.57 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Unknown Editor           35 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Unknown Project          30 mins             ██████████████████████░░░   88.08 % 
-Structural_Mechanics     4 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.92 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -114,7 +111,7 @@ TeX                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 19/04/2026 19:15:17 UTC
+ Last Updated on 20/04/2026 19:41:32 UTC
 <!--END_SECTION:waka-->
 
 ![Visitor Count](https://profile-counter.glitch.me/ChenYu-K/count.svg)

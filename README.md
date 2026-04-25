@@ -65,21 +65,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                504 commits         █████░░░░░░░░░░░░░░░░░░░░   20.68 % 
-🌆 Daytime                957 commits         ██████████░░░░░░░░░░░░░░░   39.27 % 
-🌃 Evening                781 commits         ████████░░░░░░░░░░░░░░░░░   32.05 % 
-🌙 Night                  195 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
+🌞 Morning                504 commits         █████░░░░░░░░░░░░░░░░░░░░   20.71 % 
+🌆 Daytime                954 commits         ██████████░░░░░░░░░░░░░░░   39.19 % 
+🌃 Evening                781 commits         ████████░░░░░░░░░░░░░░░░░   32.09 % 
+🌙 Night                  195 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.01 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   490 commits         █████░░░░░░░░░░░░░░░░░░░░   20.11 % 
-Tuesday                  640 commits         ███████░░░░░░░░░░░░░░░░░░   26.26 % 
-Wednesday                439 commits         █████░░░░░░░░░░░░░░░░░░░░   18.01 % 
-Thursday                 439 commits         █████░░░░░░░░░░░░░░░░░░░░   18.01 % 
-Friday                   162 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.65 % 
-Saturday                 159 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.52 % 
-Sunday                   108 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.43 % 
+Monday                   490 commits         █████░░░░░░░░░░░░░░░░░░░░   20.13 % 
+Tuesday                  640 commits         ███████░░░░░░░░░░░░░░░░░░   26.29 % 
+Wednesday                439 commits         █████░░░░░░░░░░░░░░░░░░░░   18.04 % 
+Thursday                 439 commits         █████░░░░░░░░░░░░░░░░░░░░   18.04 % 
+Friday                   159 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.53 % 
+Saturday                 159 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.53 % 
+Sunday                   108 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 % 
 ```
 
 
@@ -101,17 +101,17 @@ No Activity Tracked This Week
 **I Mostly Code in Python** 
 
 ```text
-Python                   12 repos            ███████████░░░░░░░░░░░░░░   44.44 % 
-Jupyter Notebook         6 repos             ██████░░░░░░░░░░░░░░░░░░░   22.22 % 
-MATLAB                   2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 % 
-PostScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 % 
-TeX                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
+Python                   11 repos            ███████████░░░░░░░░░░░░░░   42.31 % 
+Jupyter Notebook         6 repos             ██████░░░░░░░░░░░░░░░░░░░   23.08 % 
+MATLAB                   2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+PostScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+TeX                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
 ```
 
 
 
 
- Last Updated on 24/04/2026 19:19:59 UTC
+ Last Updated on 25/04/2026 19:17:13 UTC
 <!--END_SECTION:waka-->
 
 ![Visitor Count](https://profile-counter.glitch.me/ChenYu-K/count.svg)

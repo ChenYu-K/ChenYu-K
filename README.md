@@ -89,16 +89,13 @@ Sunday                   108 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-JSON                     14 mins             █████████████░░░░░░░░░░░░   53.87 % 
-Other                    12 mins             ███████████░░░░░░░░░░░░░░   45.30 % 
-Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  27 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-monitor_visa             18 mins             █████████████████░░░░░░░░   66.73 % 
-Unknown Project          9 mins              ████████░░░░░░░░░░░░░░░░░   33.27 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -114,7 +111,7 @@ TeX                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 03/05/2026 19:33:55 UTC
+ Last Updated on 04/05/2026 20:02:27 UTC
 <!--END_SECTION:waka-->
 
 ![Visitor Count](https://profile-counter.glitch.me/ChenYu-K/count.svg)

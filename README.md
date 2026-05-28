@@ -60,60 +60,20 @@
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C916%20hrs%2031%20mins-blue?style=flat)
-
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                503 commits         █████░░░░░░░░░░░░░░░░░░░░   20.68 % 
-🌆 Daytime                953 commits         ██████████░░░░░░░░░░░░░░░   39.19 % 
-🌃 Evening                781 commits         ████████░░░░░░░░░░░░░░░░░   32.11 % 
-🌙 Night                  195 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.02 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   488 commits         █████░░░░░░░░░░░░░░░░░░░░   20.07 % 
-Tuesday                  640 commits         ███████░░░░░░░░░░░░░░░░░░   26.32 % 
-Wednesday                439 commits         █████░░░░░░░░░░░░░░░░░░░░   18.05 % 
-Thursday                 439 commits         █████░░░░░░░░░░░░░░░░░░░░   18.05 % 
-Friday                   159 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.54 % 
-Saturday                 159 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.54 % 
-Sunday                   108 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Tokyo
-
-💬 Programming Languages: 
-CSV                      8 mins              █████████████░░░░░░░░░░░░   50.84 % 
-Other                    8 mins              ████████████░░░░░░░░░░░░░   49.16 % 
-
-🔥 Editors: 
-VS Code                  16 mins             █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-bridgeseg_v2             14 mins             ██████████████████████░░░   87.24 % 
-metrics                  2 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.76 % 
-```
-
 **I Mostly Code in Python** 
 
 ```text
-Python                   10 repos            ██████████░░░░░░░░░░░░░░░   40.00 % 
-Jupyter Notebook         6 repos             ██████░░░░░░░░░░░░░░░░░░░   24.00 % 
-MATLAB                   2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
-PostScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
-TeX                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
+Python                   9 repos             █████████░░░░░░░░░░░░░░░░   37.50 % 
+Jupyter Notebook         6 repos             ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
+MATLAB                   2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
+PostScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
+TeX                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
 ```
 
 
 
 
- Last Updated on 27/05/2026 20:34:20 UTC
+ Last Updated on 28/05/2026 20:42:58 UTC
 <!--END_SECTION:waka-->
 
 ![Visitor Count](https://profile-counter.glitch.me/ChenYu-K/count.svg)

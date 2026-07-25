@@ -60,6 +60,52 @@
 ---
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C946%20hrs%207%20mins-blue?style=flat)
+
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                505 commits         █████░░░░░░░░░░░░░░░░░░░░   20.85 % 
+🌆 Daytime                950 commits         ██████████░░░░░░░░░░░░░░░   39.22 % 
+🌃 Evening                775 commits         ████████░░░░░░░░░░░░░░░░░   32.00 % 
+🌙 Night                  192 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.93 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   489 commits         █████░░░░░░░░░░░░░░░░░░░░   20.19 % 
+Tuesday                  634 commits         ███████░░░░░░░░░░░░░░░░░░   26.18 % 
+Wednesday                438 commits         █████░░░░░░░░░░░░░░░░░░░░   18.08 % 
+Thursday                 441 commits         █████░░░░░░░░░░░░░░░░░░░░   18.21 % 
+Friday                   156 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.44 % 
+Saturday                 159 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.56 % 
+Sunday                   105 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Tokyo
+
+💬 Programming Languages: 
+TeX                      1 hr 40 mins        ████████████████░░░░░░░░░   65.32 % 
+Python                   39 mins             ██████░░░░░░░░░░░░░░░░░░░   25.79 % 
+Markdown                 10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.11 % 
+Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.78 % 
+
+🔥 Editors: 
+Claude Code              2 hrs 29 mins       ████████████████████████░   96.76 % 
+VS Code                  5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.24 % 
+
+🐱‍💻 Projects: 
+Structural_Mechanics     1 hr 20 mins        █████████████░░░░░░░░░░░░   52.36 % 
+figs                     44 mins             ███████░░░░░░░░░░░░░░░░░░   28.53 % 
+05-Funding               24 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.87 % 
+Obsidian                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.78 % 
+Unknown Project          2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.46 % 
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -73,7 +119,7 @@ TeX                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 24/07/2026 19:55:44 UTC
+ Last Updated on 25/07/2026 19:44:09 UTC
 <!--END_SECTION:waka-->
 
 ![Visitor Count](https://profile-counter.glitch.me/ChenYu-K/count.svg)

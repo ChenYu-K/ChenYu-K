@@ -60,7 +60,7 @@
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C946%20hrs%207%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C947%20hrs%2024%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
@@ -89,21 +89,23 @@ Sunday                   105 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-TeX                      1 hr 40 mins        ████████████████░░░░░░░░░   65.32 % 
-Python                   39 mins             ██████░░░░░░░░░░░░░░░░░░░   25.79 % 
-Markdown                 10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.11 % 
-Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.78 % 
+TeX                      1 hr 40 mins        ████████████░░░░░░░░░░░░░   46.61 % 
+Python                   41 mins             █████░░░░░░░░░░░░░░░░░░░░   19.15 % 
+Other                    38 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.80 % 
+CSV                      23 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.00 % 
+Markdown                 11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.44 % 
 
 🔥 Editors: 
-Claude Code              2 hrs 29 mins       ████████████████████████░   96.76 % 
-VS Code                  5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.24 % 
+Claude Code              2 hrs 57 mins       █████████████████████░░░░   82.16 % 
+Antigravity CLI          20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.40 % 
+VS Code                  18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.43 % 
 
 🐱‍💻 Projects: 
-Structural_Mechanics     1 hr 20 mins        █████████████░░░░░░░░░░░░   52.36 % 
-figs                     44 mins             ███████░░░░░░░░░░░░░░░░░░   28.53 % 
-05-Funding               24 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.87 % 
-Obsidian                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.78 % 
-Unknown Project          2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.46 % 
+Structural_Mechanics     1 hr 20 mins        █████████░░░░░░░░░░░░░░░░   37.36 % 
+Obsidian                 44 mins             █████░░░░░░░░░░░░░░░░░░░░   20.51 % 
+figs                     44 mins             █████░░░░░░░░░░░░░░░░░░░░   20.36 % 
+05-Funding               24 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.32 % 
+Desktop                  20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.40 % 
 ```
 
 **I Mostly Code in Python** 
@@ -119,7 +121,7 @@ TeX                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 25/07/2026 19:44:09 UTC
+ Last Updated on 26/07/2026 19:45:00 UTC
 <!--END_SECTION:waka-->
 
 ![Visitor Count](https://profile-counter.glitch.me/ChenYu-K/count.svg)

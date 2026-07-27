@@ -60,7 +60,9 @@
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C947%20hrs%2024%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-608%20hrs%2042%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-61%20hrs%2019%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
@@ -89,23 +91,47 @@ Sunday                   105 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-TeX                      1 hr 40 mins        ████████████░░░░░░░░░░░░░   46.61 % 
-Python                   41 mins             █████░░░░░░░░░░░░░░░░░░░░   19.15 % 
-Other                    38 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.80 % 
-CSV                      23 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.00 % 
-Markdown                 11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.44 % 
+TeX                      1 hr 28 mins        ██████████░░░░░░░░░░░░░░░   39.84 % 
+Python                   46 mins             █████░░░░░░░░░░░░░░░░░░░░   20.75 % 
+Other                    38 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.37 % 
+CSV                      36 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.36 % 
+JSON                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.92 % 
 
 🔥 Editors: 
-Claude Code              2 hrs 57 mins       █████████████████████░░░░   82.16 % 
-Antigravity CLI          20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.40 % 
-VS Code                  18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.43 % 
+Claude Code              3 hrs 2 mins        █████████████████████░░░░   82.21 % 
+Antigravity CLI          20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.17 % 
+VS Code                  19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.62 % 
 
 🐱‍💻 Projects: 
-Structural_Mechanics     1 hr 20 mins        █████████░░░░░░░░░░░░░░░░   37.36 % 
-Obsidian                 44 mins             █████░░░░░░░░░░░░░░░░░░░░   20.51 % 
-figs                     44 mins             █████░░░░░░░░░░░░░░░░░░░░   20.36 % 
-05-Funding               24 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.32 % 
-Desktop                  20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.40 % 
+Obsidian                 1 hr 15 mins        █████████░░░░░░░░░░░░░░░░   34.06 % 
+Structural_Mechanics     1 hr 9 mins         ████████░░░░░░░░░░░░░░░░░   31.18 % 
+figs                     30 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.53 % 
+05-Funding               24 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.04 % 
+Desktop                  20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.17 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 3 hrs 41 mins (100.0%)
+
+✍️ 2,431 lines written by AI, 0 lines written by hand (100.0% AI-written)
+
+🔤 127,658,245 Input Tokens, 312,511 Output Tokens
+
+💵 $394.87 Estimated AI Cost This Week
+
+🧠 8 AI Sessions, 68 AI Prompts
+
+Sonnet                   2,479 lines         █████████████████████████   99.88 % 
+Opus                     3 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+Github-Copilot           0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📄 Detailed Prompter — average 730 characters per prompt
+🔁 Iterative Prompter — average 8 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -121,7 +147,7 @@ TeX                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 26/07/2026 19:45:00 UTC
+ Last Updated on 27/07/2026 20:04:28 UTC
 <!--END_SECTION:waka-->
 
 ![Visitor Count](https://profile-counter.glitch.me/ChenYu-K/count.svg)

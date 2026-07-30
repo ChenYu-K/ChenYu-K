@@ -91,46 +91,45 @@ Sunday                   105 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-TeX                      55 mins             ████████░░░░░░░░░░░░░░░░░   31.71 % 
-Other                    38 mins             █████░░░░░░░░░░░░░░░░░░░░   21.88 % 
-Python                   38 mins             █████░░░░░░░░░░░░░░░░░░░░   21.63 % 
-CSV                      36 mins             █████░░░░░░░░░░░░░░░░░░░░   20.61 % 
-JSON                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 % 
+Other                    38 mins             ██████████░░░░░░░░░░░░░░░   40.17 % 
+CSV                      36 mins             █████████░░░░░░░░░░░░░░░░   37.84 % 
+Python                   13 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.33 % 
+JSON                     6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.75 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
 
 🔥 Editors: 
-Claude Code              2 hrs 16 mins       ███████████████████░░░░░░   77.59 % 
-Antigravity CLI          20 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.56 % 
-VS Code                  19 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.85 % 
+Claude Code              58 mins             ███████████████░░░░░░░░░░   61.21 % 
+Antigravity CLI          20 mins             █████░░░░░░░░░░░░░░░░░░░░   21.22 % 
+VS Code                  16 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.58 % 
 
 🐱‍💻 Projects: 
-Obsidian                 1 hr 15 mins        ███████████░░░░░░░░░░░░░░   42.91 % 
-Structural_Mechanics     57 mins             ████████░░░░░░░░░░░░░░░░░   32.86 % 
-Desktop                  20 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.56 % 
-figs                     20 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.40 % 
-Unknown Project          2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
+Obsidian                 1 hr 15 mins        ████████████████████░░░░░   78.78 % 
+Desktop                  20 mins             █████░░░░░░░░░░░░░░░░░░░░   21.22 % 
+R8                       0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 56 mins (100.0%)
+⏱ AI Coding Time: 1 hr 35 mins (100.0%)
 
-✍️ 2,208 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 1,896 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 88,025,075 Input Tokens, 213,965 Output Tokens
+🔤 16,521,431 Input Tokens, 82,230 Output Tokens
 
-💵 $274.49 Estimated AI Cost This Week
+💵 $58.00 Estimated AI Cost This Week
 
-🧠 6 AI Sessions, 62 AI Prompts
+🧠 5 AI Sessions, 55 AI Prompts
 
-Sonnet                   2,256 lines         █████████████████████████   99.87 % 
-Opus                     3 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
+Sonnet                   1,893 lines         █████████████████████████   99.84 % 
+Opus                     3 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
 Github-Copilot           0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 779 characters per prompt
-🔁 Iterative Prompter — average 10 prompts per session
+📄 Detailed Prompter — average 854 characters per prompt
+🔁 Iterative Prompter — average 11 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -147,7 +146,7 @@ TeX                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 29/07/2026 19:53:19 UTC
+ Last Updated on 30/07/2026 20:01:55 UTC
 <!--END_SECTION:waka-->
 
 ![Visitor Count](https://profile-counter.glitch.me/ChenYu-K/count.svg)

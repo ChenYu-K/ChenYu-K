@@ -91,42 +91,39 @@ Sunday                   105 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-CSV                      36 mins             ██████████░░░░░░░░░░░░░░░   38.96 % 
-Other                    35 mins             ██████████░░░░░░░░░░░░░░░   38.40 % 
-Python                   13 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.76 % 
-JSON                     6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.95 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
+CSV                      12 mins             ██████████░░░░░░░░░░░░░░░   40.07 % 
+Python                   12 mins             ██████████░░░░░░░░░░░░░░░   38.94 % 
+JSON                     6 mins              █████░░░░░░░░░░░░░░░░░░░░   20.76 % 
+HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
 
 🔥 Editors: 
-Claude Code              58 mins             ████████████████░░░░░░░░░   63.02 % 
-Antigravity CLI          20 mins             █████░░░░░░░░░░░░░░░░░░░░   21.84 % 
-VS Code                  14 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.14 % 
+Claude Code              30 mins             ████████████████████████░   97.23 % 
+VS Code                  0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.77 % 
 
 🐱‍💻 Projects: 
-Obsidian                 1 hr 12 mins        ████████████████████░░░░░   78.16 % 
-Desktop                  20 mins             █████░░░░░░░░░░░░░░░░░░░░   21.84 % 
+Obsidian                 31 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 33 mins (100.0%)
+⏱ AI Coding Time: 31 mins (100.0%)
 
-✍️ 1,896 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 1,873 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 16,495,236 Input Tokens, 81,938 Output Tokens
+🔤 8,891,615 Input Tokens, 58,776 Output Tokens
 
-💵 $57.92 Estimated AI Cost This Week
+💵 $30.20 Estimated AI Cost This Week
 
-🧠 4 AI Sessions, 54 AI Prompts
+🧠 1 AI Sessions, 13 AI Prompts
 
-Sonnet                   1,893 lines         █████████████████████████   99.84 % 
-Opus                     3 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
+Sonnet                   1,873 lines         █████████████████████████   100.00 % 
+Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 867 characters per prompt
-🔁 Iterative Prompter — average 14 prompts per session
+📚 Verbose Prompter — average 1,866 characters per prompt
+🔁 Iterative Prompter — average 13 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -143,7 +140,7 @@ TeX                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 01/08/2026 19:44:31 UTC
+ Last Updated on 02/08/2026 19:44:16 UTC
 <!--END_SECTION:waka-->
 
 ![Visitor Count](https://profile-counter.glitch.me/ChenYu-K/count.svg)

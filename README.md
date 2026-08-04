@@ -67,21 +67,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                505 commits         █████░░░░░░░░░░░░░░░░░░░░   20.85 % 
-🌆 Daytime                950 commits         ██████████░░░░░░░░░░░░░░░   39.22 % 
-🌃 Evening                775 commits         ████████░░░░░░░░░░░░░░░░░   32.00 % 
-🌙 Night                  192 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.93 % 
+🌞 Morning                509 commits         █████░░░░░░░░░░░░░░░░░░░░   20.37 % 
+🌆 Daytime                974 commits         ██████████░░░░░░░░░░░░░░░   38.98 % 
+🌃 Evening                807 commits         ████████░░░░░░░░░░░░░░░░░   32.29 % 
+🌙 Night                  209 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.36 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   489 commits         █████░░░░░░░░░░░░░░░░░░░░   20.19 % 
-Tuesday                  634 commits         ███████░░░░░░░░░░░░░░░░░░   26.18 % 
-Wednesday                438 commits         █████░░░░░░░░░░░░░░░░░░░░   18.08 % 
-Thursday                 441 commits         █████░░░░░░░░░░░░░░░░░░░░   18.21 % 
-Friday                   156 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.44 % 
-Saturday                 159 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.56 % 
-Sunday                   105 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 % 
+Monday                   507 commits         █████░░░░░░░░░░░░░░░░░░░░   20.29 % 
+Tuesday                  648 commits         ██████░░░░░░░░░░░░░░░░░░░   25.93 % 
+Wednesday                446 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.85 % 
+Thursday                 452 commits         █████░░░░░░░░░░░░░░░░░░░░   18.09 % 
+Friday                   166 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.64 % 
+Saturday                 168 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.72 % 
+Sunday                   112 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 % 
 ```
 
 
@@ -91,40 +91,19 @@ Sunday                   105 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-CSV                      12 mins             ██████████░░░░░░░░░░░░░░░   40.07 % 
-Python                   12 mins             ██████████░░░░░░░░░░░░░░░   38.94 % 
-JSON                     6 mins              █████░░░░░░░░░░░░░░░░░░░░   20.76 % 
-HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Claude Code              30 mins             ████████████████████████░   97.23 % 
-VS Code                  0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.77 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Obsidian                 31 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 31 mins (100.0%)
-
-✍️ 1,873 lines written by AI, 0 lines written by hand (100.0% AI-written)
-
-🔤 8,891,615 Input Tokens, 58,776 Output Tokens
-
-💵 $30.20 Estimated AI Cost This Week
-
-🧠 1 AI Sessions, 13 AI Prompts
-
-Sonnet                   1,873 lines         █████████████████████████   100.00 % 
-Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 1,866 characters per prompt
-🔁 Iterative Prompter — average 13 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -140,7 +119,7 @@ TeX                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 02/08/2026 19:44:16 UTC
+ Last Updated on 04/08/2026 20:09:43 UTC
 <!--END_SECTION:waka-->
 
 ![Visitor Count](https://profile-counter.glitch.me/ChenYu-K/count.svg)

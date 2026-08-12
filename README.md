@@ -60,28 +60,28 @@
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-608%20hrs%2042%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-608%20hrs%2048%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-61%20hrs%2019%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-62%20hrs%202%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                509 commits         █████░░░░░░░░░░░░░░░░░░░░   20.37 % 
-🌆 Daytime                974 commits         ██████████░░░░░░░░░░░░░░░   38.98 % 
-🌃 Evening                807 commits         ████████░░░░░░░░░░░░░░░░░   32.29 % 
-🌙 Night                  209 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.36 % 
+🌞 Morning                505 commits         █████░░░░░░░░░░░░░░░░░░░░   20.85 % 
+🌆 Daytime                950 commits         ██████████░░░░░░░░░░░░░░░   39.22 % 
+🌃 Evening                775 commits         ████████░░░░░░░░░░░░░░░░░   32.00 % 
+🌙 Night                  192 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.93 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   507 commits         █████░░░░░░░░░░░░░░░░░░░░   20.29 % 
-Tuesday                  648 commits         ██████░░░░░░░░░░░░░░░░░░░   25.93 % 
-Wednesday                446 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.85 % 
-Thursday                 452 commits         █████░░░░░░░░░░░░░░░░░░░░   18.09 % 
-Friday                   166 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.64 % 
-Saturday                 168 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.72 % 
-Sunday                   112 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 % 
+Monday                   489 commits         █████░░░░░░░░░░░░░░░░░░░░   20.19 % 
+Tuesday                  634 commits         ███████░░░░░░░░░░░░░░░░░░   26.18 % 
+Wednesday                438 commits         █████░░░░░░░░░░░░░░░░░░░░   18.08 % 
+Thursday                 441 commits         █████░░░░░░░░░░░░░░░░░░░░   18.21 % 
+Friday                   156 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.44 % 
+Saturday                 159 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.56 % 
+Sunday                   105 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 % 
 ```
 
 
@@ -91,19 +91,38 @@ Sunday                   112 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Other                    36 mins             █████████████████████░░░░   85.77 % 
+CSV                      6 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.23 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Claude Code              36 mins             █████████████████████░░░░   85.77 % 
+VS Code                  6 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.23 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+05-Funding               36 mins             █████████████████████░░░░   85.77 % 
+Unknown Project          6 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.23 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 42 mins (98.79%)
+
+✍️ 0 lines written by AI, 2 lines written by hand (0.0% AI-written)
+
+🔤 3,899,933 Input Tokens, 30,521 Output Tokens
+
+💵 $8.11 Estimated AI Cost This Week
+
+🧠 1 AI Sessions, 8 AI Prompts
+
+Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📝 Concise Prompter — average 128 characters per prompt
+🔁 Iterative Prompter — average 8 prompts per session
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -119,7 +138,7 @@ TeX                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 11/08/2026 19:34:48 UTC
+ Last Updated on 12/08/2026 19:36:52 UTC
 <!--END_SECTION:waka-->
 
 ![Visitor Count](https://profile-counter.glitch.me/ChenYu-K/count.svg)

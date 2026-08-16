@@ -91,16 +91,19 @@ Sunday                   112 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Other                    36 mins             █████████████████████░░░░   85.77 % 
-CSV                      6 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.23 % 
+Other                    36 mins             █████████████████████░░░░   85.41 % 
+CSV                      6 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.18 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
 
 🔥 Editors: 
-Claude Code              36 mins             █████████████████████░░░░   85.77 % 
-VS Code                  6 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.23 % 
+Claude Code              36 mins             █████████████████████░░░░   85.41 % 
+VS Code                  6 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.40 % 
+OpenClaw                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
 
 🐱‍💻 Projects: 
-05-Funding               36 mins             █████████████████████░░░░   85.77 % 
-Unknown Project          6 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.23 % 
+05-Funding               36 mins             █████████████████████░░░░   85.41 % 
+Unknown Project          6 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.18 % 
+workspace                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -110,18 +113,19 @@ Unknown Project          6 mins              ████░░░░░░░�
 
 ✍️ 0 lines written by AI, 2 lines written by hand (0.0% AI-written)
 
-🔤 3,899,933 Input Tokens, 30,521 Output Tokens
+🔤 3,924,521 Input Tokens, 30,977 Output Tokens
 
-💵 $8.11 Estimated AI Cost This Week
+💵 $8.24 Estimated AI Cost This Week
 
-🧠 1 AI Sessions, 8 AI Prompts
+🧠 4 AI Sessions, 9 AI Prompts
 
 Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 128 characters per prompt
-🔁 Iterative Prompter — average 8 prompts per session
+📄 Detailed Prompter — average 541 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
@@ -138,7 +142,7 @@ TeX                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 15/08/2026 18:55:56 UTC
+ Last Updated on 16/08/2026 18:54:21 UTC
 <!--END_SECTION:waka-->
 
 ![Visitor Count](https://profile-counter.glitch.me/ChenYu-K/count.svg)

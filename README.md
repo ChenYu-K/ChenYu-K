@@ -91,36 +91,19 @@ Sunday                   112 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Markdown                 0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  0 secs              █████████████░░░░░░░░░░░░   53.26 % 
-OpenClaw                 0 secs              ████████████░░░░░░░░░░░░░   46.74 % 
+VS Code                  0 secs              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-workspace                0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 0 secs (100.0%)
-
-✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
-
-🔤 24,588 Input Tokens, 456 Output Tokens
-
-💵 $0.14 Estimated AI Cost This Week
-
-🧠 3 AI Sessions, 1 AI Prompts
-
-GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📚 Verbose Prompter — average 3,849 characters per prompt
-🎯 One-Shot Prompter — average 0 prompts per session
-🚀 High AI Trust — 0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -136,7 +119,7 @@ TeX                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 22/08/2026 18:55:45 UTC
+ Last Updated on 23/08/2026 18:55:55 UTC
 <!--END_SECTION:waka-->
 
 ![Visitor Count](https://profile-counter.glitch.me/ChenYu-K/count.svg)

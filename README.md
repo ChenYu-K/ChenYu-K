@@ -91,49 +91,48 @@ Sunday                   105 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Other                    50 mins             ██████████░░░░░░░░░░░░░░░   40.96 % 
-SSH Config               26 mins             ██████░░░░░░░░░░░░░░░░░░░   22.08 % 
-Markdown                 15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.04 % 
-JSON                     13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.31 % 
-Text                     13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.91 % 
+Other                    49 mins             █████████████░░░░░░░░░░░░   50.40 % 
+SSH Config               26 mins             ███████░░░░░░░░░░░░░░░░░░   27.48 % 
+JSON                     13 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.08 % 
+Markdown                 7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.04 % 
 
 🔥 Editors: 
-VS Code                  1 hr                ████████████░░░░░░░░░░░░░   49.65 % 
-OpenClaw                 32 mins             ███████░░░░░░░░░░░░░░░░░░   26.49 % 
-Claude Code              25 mins             █████░░░░░░░░░░░░░░░░░░░░   21.05 % 
-Codex Vscode             3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.81 % 
+VS Code                  59 mins             ███████████████░░░░░░░░░░   60.45 % 
+OpenClaw                 26 mins             ███████░░░░░░░░░░░░░░░░░░   26.56 % 
+Claude Code              9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.50 % 
+Codex Vscode             3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 % 
 
 🐱‍💻 Projects: 
-Unknown Project          40 mins             ████████░░░░░░░░░░░░░░░░░   33.39 % 
-config                   35 mins             ███████░░░░░░░░░░░░░░░░░░   29.06 % 
-bolt_corrosion           16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.42 % 
-workspace                11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.75 % 
-lyconeko                 7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.24 % 
+Unknown Project          40 mins             ██████████░░░░░░░░░░░░░░░   41.57 % 
+config                   34 mins             █████████░░░░░░░░░░░░░░░░   35.58 % 
+lyconeko                 7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.77 % 
+workspace                4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.96 % 
+openclaw.json            4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.91 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 46 mins (86.81%)
+⏱ AI Coding Time: 1 hr 21 mins (83.58%)
 
-✍️ 644 lines written by AI, 11 lines written by hand (98.32% AI-written)
+✍️ 231 lines written by AI, 11 lines written by hand (95.45% AI-written)
 
-🔤 2,380,412 Input Tokens, 201,960 Output Tokens
+🔤 1,241,452 Input Tokens, 80,891 Output Tokens
 
-💵 $35.32 Estimated AI Cost This Week
+💵 $24.64 Estimated AI Cost This Week
 
-🧠 47 AI Sessions, 69 AI Prompts
+🧠 39 AI Sessions, 50 AI Prompts
 
-Opus                     413 lines           ████████████████░░░░░░░░░   64.13 % 
-GPT                      192 lines           ███████░░░░░░░░░░░░░░░░░░   29.81 % 
-Sonnet                   39 lines            ██░░░░░░░░░░░░░░░░░░░░░░░   06.06 % 
+GPT                      192 lines           █████████████████████░░░░   82.76 % 
+Sonnet                   39 lines            ████░░░░░░░░░░░░░░░░░░░░░   16.81 % 
+Opus                     1 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
 Embedding                0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.32% of written lines came from AI
-📚 Verbose Prompter — average 2,078 characters per prompt
+🤖 AI-Driven — 95.45% of written lines came from AI
+📚 Verbose Prompter — average 1,915 characters per prompt
 🎯 One-Shot Prompter — average 1 prompts per session
-🚀 High AI Trust — 1.83% of changed lines were hand-edited
+🚀 High AI Trust — 4.94% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -149,7 +148,7 @@ TeX                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 22/09/2026 21:34:18 UTC
+ Last Updated on 23/09/2026 21:40:32 UTC
 <!--END_SECTION:waka-->
 
 ![Visitor Count](https://profile-counter.glitch.me/ChenYu-K/count.svg)

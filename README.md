@@ -91,48 +91,46 @@ Sunday                   105 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Other                    49 mins             █████████████░░░░░░░░░░░░   50.40 % 
-SSH Config               26 mins             ███████░░░░░░░░░░░░░░░░░░   27.48 % 
-JSON                     13 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.08 % 
-Markdown                 7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.04 % 
+Other                    37 mins             ████████████░░░░░░░░░░░░░   48.11 % 
+SSH Config               26 mins             █████████░░░░░░░░░░░░░░░░   34.31 % 
+JSON                     13 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.58 % 
 
 🔥 Editors: 
-VS Code                  59 mins             ███████████████░░░░░░░░░░   60.45 % 
-OpenClaw                 26 mins             ███████░░░░░░░░░░░░░░░░░░   26.56 % 
-Claude Code              9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.50 % 
-Codex Vscode             3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 % 
+VS Code                  46 mins             ███████████████░░░░░░░░░░   58.68 % 
+OpenClaw                 24 mins             ████████░░░░░░░░░░░░░░░░░   31.63 % 
+Claude Code              7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.69 % 
 
 🐱‍💻 Projects: 
-Unknown Project          40 mins             ██████████░░░░░░░░░░░░░░░   41.57 % 
-config                   34 mins             █████████░░░░░░░░░░░░░░░░   35.58 % 
-lyconeko                 7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.77 % 
-workspace                4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.96 % 
-openclaw.json            4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.91 % 
+Unknown Project          40 mins             █████████████░░░░░░░░░░░░   51.89 % 
+config                   23 mins             ███████░░░░░░░░░░░░░░░░░░   29.62 % 
+lyconeko                 7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.69 % 
+openclaw.json            4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.13 % 
+workspace                2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.67 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 21 mins (83.58%)
+⏱ AI Coding Time: 1 hr 2 mins (79.51%)
 
-✍️ 231 lines written by AI, 11 lines written by hand (95.45% AI-written)
+✍️ 0 lines written by AI, 11 lines written by hand (0.0% AI-written)
 
-🔤 1,241,452 Input Tokens, 80,891 Output Tokens
+🔤 376,609 Input Tokens, 6,439 Output Tokens
 
-💵 $24.64 Estimated AI Cost This Week
+💵 $3.43 Estimated AI Cost This Week
 
-🧠 39 AI Sessions, 50 AI Prompts
+🧠 22 AI Sessions, 33 AI Prompts
 
-GPT                      192 lines           █████████████████████░░░░   82.76 % 
-Sonnet                   39 lines            ████░░░░░░░░░░░░░░░░░░░░░   16.81 % 
-Opus                     1 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
+Opus                     1 lines             █████████████████████████   100.00 % 
+GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Embedding                0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 95.45% of written lines came from AI
-📚 Verbose Prompter — average 1,915 characters per prompt
-🎯 One-Shot Prompter — average 1 prompts per session
-🚀 High AI Trust — 4.94% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📄 Detailed Prompter — average 927 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -148,7 +146,7 @@ TeX                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 23/09/2026 21:40:32 UTC
+ Last Updated on 24/09/2026 21:41:35 UTC
 <!--END_SECTION:waka-->
 
 ![Visitor Count](https://profile-counter.glitch.me/ChenYu-K/count.svg)

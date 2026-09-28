@@ -91,33 +91,33 @@ Sunday                   105 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Other                    29 mins             █████████████████░░░░░░░░   68.00 % 
-JSON                     13 mins             ████████░░░░░░░░░░░░░░░░░   32.00 % 
+JSON                     13 mins             █████████████░░░░░░░░░░░░   52.19 % 
+Other                    12 mins             ████████████░░░░░░░░░░░░░   47.81 % 
 
 🔥 Editors: 
-VS Code                  18 mins             ███████████░░░░░░░░░░░░░░   43.30 % 
-OpenClaw                 16 mins             ██████████░░░░░░░░░░░░░░░   39.06 % 
-Claude Code              7 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.64 % 
+VS Code                  18 mins             █████████████████░░░░░░░░   69.68 % 
+Claude Code              7 mins              ███████░░░░░░░░░░░░░░░░░░   28.77 % 
+OpenClaw                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.55 % 
 
 🐱‍💻 Projects: 
-workspace                16 mins             █████████░░░░░░░░░░░░░░░░   37.32 % 
-Unknown Project          13 mins             ████████░░░░░░░░░░░░░░░░░   32.00 % 
-lyconeko                 7 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.64 % 
-openclaw.json            5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.04 % 
+Unknown Project          13 mins             █████████████░░░░░░░░░░░░   52.19 % 
+lyconeko                 7 mins              ███████░░░░░░░░░░░░░░░░░░   28.77 % 
+openclaw.json            4 mins              █████░░░░░░░░░░░░░░░░░░░░   18.18 % 
+workspace                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 43 mins (100.0%)
+⏱ AI Coding Time: 26 mins (100.0%)
 
 ✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
-🔤 220,442 Input Tokens, 3,258 Output Tokens
+🔤 68,353 Input Tokens, 3,006 Output Tokens
 
-💵 $1.30 Estimated AI Cost This Week
+💵 $0.47 Estimated AI Cost This Week
 
-🧠 12 AI Sessions, 28 AI Prompts
+🧠 7 AI Sessions, 9 AI Prompts
 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Embedding                0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
@@ -125,8 +125,8 @@ Sonnet                   0 lines             ░░░░░░░░░░░�
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📄 Detailed Prompter — average 1,035 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
+📄 Detailed Prompter — average 1,211 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
 🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
@@ -143,7 +143,7 @@ TeX                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 27/09/2026 21:31:59 UTC
+ Last Updated on 28/09/2026 23:27:11 UTC
 <!--END_SECTION:waka-->
 
 ![Visitor Count](https://profile-counter.glitch.me/ChenYu-K/count.svg)

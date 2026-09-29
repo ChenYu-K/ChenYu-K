@@ -91,43 +91,19 @@ Sunday                   105 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-JSON                     13 mins             █████████████░░░░░░░░░░░░   52.19 % 
-Other                    12 mins             ████████████░░░░░░░░░░░░░   47.81 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  18 mins             █████████████████░░░░░░░░   69.68 % 
-Claude Code              7 mins              ███████░░░░░░░░░░░░░░░░░░   28.77 % 
-OpenClaw                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.55 % 
+VS Code                  0 secs              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Unknown Project          13 mins             █████████████░░░░░░░░░░░░   52.19 % 
-lyconeko                 7 mins              ███████░░░░░░░░░░░░░░░░░░   28.77 % 
-openclaw.json            4 mins              █████░░░░░░░░░░░░░░░░░░░░   18.18 % 
-workspace                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 26 mins (100.0%)
-
-✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
-
-🔤 68,353 Input Tokens, 3,006 Output Tokens
-
-💵 $0.47 Estimated AI Cost This Week
-
-🧠 7 AI Sessions, 9 AI Prompts
-
-GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Embedding                0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📄 Detailed Prompter — average 1,211 characters per prompt
-🎯 One-Shot Prompter — average 1 prompts per session
-🚀 High AI Trust — 0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -143,7 +119,7 @@ TeX                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 28/09/2026 23:27:11 UTC
+ Last Updated on 29/09/2026 22:29:48 UTC
 <!--END_SECTION:waka-->
 
 ![Visitor Count](https://profile-counter.glitch.me/ChenYu-K/count.svg)

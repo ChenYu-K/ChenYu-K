@@ -67,21 +67,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                492 commits         ██████░░░░░░░░░░░░░░░░░░░   23.90 % 
-🌆 Daytime                681 commits         ████████░░░░░░░░░░░░░░░░░   33.07 % 
-🌃 Evening                704 commits         █████████░░░░░░░░░░░░░░░░   34.19 % 
-🌙 Night                  182 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.84 % 
+🌞 Morning                463 commits         ██████░░░░░░░░░░░░░░░░░░░   24.77 % 
+🌆 Daytime                603 commits         ████████░░░░░░░░░░░░░░░░░   32.26 % 
+🌃 Evening                631 commits         ████████░░░░░░░░░░░░░░░░░   33.76 % 
+🌙 Night                  172 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.20 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   275 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.36 % 
-Tuesday                  620 commits         ████████░░░░░░░░░░░░░░░░░   30.11 % 
-Wednesday                323 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.69 % 
-Thursday                 445 commits         █████░░░░░░░░░░░░░░░░░░░░   21.61 % 
-Friday                   158 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.67 % 
-Saturday                 131 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.36 % 
-Sunday                   107 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.20 % 
+Monday                   255 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.64 % 
+Tuesday                  573 commits         ████████░░░░░░░░░░░░░░░░░   30.66 % 
+Wednesday                275 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.71 % 
+Thursday                 407 commits         █████░░░░░░░░░░░░░░░░░░░░   21.78 % 
+Friday                   138 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.38 % 
+Saturday                 115 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.15 % 
+Sunday                   106 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.67 % 
 ```
 
 
@@ -91,47 +91,46 @@ Sunday                   107 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Other                    51 mins             █████████░░░░░░░░░░░░░░░░   36.51 % 
-Python                   48 mins             █████████░░░░░░░░░░░░░░░░   34.62 % 
-Markdown                 20 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.90 % 
-TeX                      12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.98 % 
-Text                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.67 % 
+Python                   48 mins             ████████████████░░░░░░░░░   65.72 % 
+Other                    6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.08 % 
+Text                     6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.93 % 
+TeX                      6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.37 % 
+Markdown                 5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.27 % 
 
 🔥 Editors: 
-Claude Code              1 hr 30 mins        ████████████████░░░░░░░░░   64.07 % 
-Antigravity Desktop      44 mins             ████████░░░░░░░░░░░░░░░░░   31.33 % 
-VS Code                  4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
-OpenClaw                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.27 % 
+Claude Code              1 hr 7 mins         ███████████████████████░░   92.03 % 
+VS Code                  4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.13 % 
+OpenClaw                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.83 % 
 
 🐱‍💻 Projects: 
-01_2026_Journal_of_Comp_i49 mins             █████████░░░░░░░░░░░░░░░░   35.07 % 
-config                   45 mins             ████████░░░░░░░░░░░░░░░░░   32.03 % 
-bolt_corrosion           15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.10 % 
-05-Funding               10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.10 % 
-bridgeseg_v2             9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.69 % 
+01_2026_Journal_of_Comp_i45 mins             ███████████████░░░░░░░░░░   61.35 % 
+05-Funding               10 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.59 % 
+bridgeseg_v2             9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.80 % 
+damage_detection         3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 % 
+ifcpcd_valid             2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.87 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 20 mins (99.67%)
+⏱ AI Coding Time: 1 hr 13 mins (99.37%)
 
-✍️ 1,783 lines written by AI, 2 lines written by hand (99.89% AI-written)
+✍️ 1,339 lines written by AI, 2 lines written by hand (99.85% AI-written)
 
-🔤 1,581,953 Input Tokens, 210,909 Output Tokens
+🔤 1,431,863 Input Tokens, 137,579 Output Tokens
 
-💵 $24.55 Estimated AI Cost This Week
+💵 $19.19 Estimated AI Cost This Week
 
-🧠 38 AI Sessions, 48 AI Prompts
+🧠 30 AI Sessions, 38 AI Prompts
 
-Opus                     1,784 lines         █████████████████████████   100.00 % 
+Opus                     1,340 lines         █████████████████████████   100.00 % 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.89% of written lines came from AI
-📄 Detailed Prompter — average 1,164 characters per prompt
+🤖 AI-Driven — 99.85% of written lines came from AI
+📄 Detailed Prompter — average 1,009 characters per prompt
 🎯 One-Shot Prompter — average 1 prompts per session
-🚀 High AI Trust — 0.11% of changed lines were hand-edited
+🚀 High AI Trust — 0.15% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -147,7 +146,7 @@ TeX                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 06/10/2026 00:15:12 UTC
+ Last Updated on 06/10/2026 22:46:19 UTC
 <!--END_SECTION:waka-->
 
 ![Visitor Count](https://profile-counter.glitch.me/ChenYu-K/count.svg)

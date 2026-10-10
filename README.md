@@ -67,21 +67,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                425 commits         ██████░░░░░░░░░░░░░░░░░░░   23.19 % 
-🌆 Daytime                642 commits         █████████░░░░░░░░░░░░░░░░   35.02 % 
-🌃 Evening                603 commits         ████████░░░░░░░░░░░░░░░░░   32.90 % 
-🌙 Night                  163 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.89 % 
+🌞 Morning                496 commits         ██████░░░░░░░░░░░░░░░░░░░   23.22 % 
+🌆 Daytime                705 commits         ████████░░░░░░░░░░░░░░░░░   33.01 % 
+🌃 Evening                736 commits         █████████░░░░░░░░░░░░░░░░   34.46 % 
+🌙 Night                  199 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.32 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   234 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.77 % 
-Tuesday                  534 commits         ███████░░░░░░░░░░░░░░░░░░   29.13 % 
-Wednesday                295 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.09 % 
-Thursday                 409 commits         ██████░░░░░░░░░░░░░░░░░░░   22.31 % 
-Friday                   144 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.86 % 
-Saturday                 122 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.66 % 
-Sunday                   95 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.18 % 
+Monday                   293 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.72 % 
+Tuesday                  634 commits         ███████░░░░░░░░░░░░░░░░░░   29.68 % 
+Wednesday                331 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.50 % 
+Thursday                 456 commits         █████░░░░░░░░░░░░░░░░░░░░   21.35 % 
+Friday                   168 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.87 % 
+Saturday                 140 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.55 % 
+Sunday                   114 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.34 % 
 ```
 
 
@@ -94,13 +94,12 @@ Sunday                   95 commits          █░░░░░░░░░░�
 Other                    0 secs              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  0 secs              ███████████████░░░░░░░░░░   61.36 % 
-OpenClaw                 0 secs              ██████████░░░░░░░░░░░░░░░   38.64 % 
+VS Code                  0 secs              █████████████░░░░░░░░░░░░   53.82 % 
+OpenClaw                 0 secs              ████████████░░░░░░░░░░░░░   46.18 % 
 
 🐱‍💻 Projects: 
-workspace                0 secs              █████████████░░░░░░░░░░░░   51.42 % 
-Unknown Project          0 secs              ████████░░░░░░░░░░░░░░░░░   32.21 % 
-config                   0 secs              ████░░░░░░░░░░░░░░░░░░░░░   16.37 % 
+workspace                0 secs              ███████████████░░░░░░░░░░   61.41 % 
+Unknown Project          0 secs              ██████████░░░░░░░░░░░░░░░   38.59 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -110,17 +109,17 @@ config                   0 secs              ████░░░░░░░�
 
 ✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
-🔤 100,610 Input Tokens, 1,503 Output Tokens
+🔤 76,218 Input Tokens, 1,007 Output Tokens
 
-💵 $0.56 Estimated AI Cost This Week
+💵 $0.42 Estimated AI Cost This Week
 
-🧠 12 AI Sessions, 7 AI Prompts
+🧠 9 AI Sessions, 5 AI Prompts
 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📚 Verbose Prompter — average 1,726 characters per prompt
+📚 Verbose Prompter — average 2,221 characters per prompt
 🎯 One-Shot Prompter — average 1 prompts per session
 🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
@@ -138,7 +137,7 @@ TeX                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 09/10/2026 22:51:56 UTC
+ Last Updated on 10/10/2026 21:56:18 UTC
 <!--END_SECTION:waka-->
 
 ![Visitor Count](https://profile-counter.glitch.me/ChenYu-K/count.svg)

@@ -67,21 +67,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                496 commits         ██████░░░░░░░░░░░░░░░░░░░   23.22 % 
-🌆 Daytime                705 commits         ████████░░░░░░░░░░░░░░░░░   33.01 % 
-🌃 Evening                736 commits         █████████░░░░░░░░░░░░░░░░   34.46 % 
-🌙 Night                  199 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.32 % 
+🌞 Morning                492 commits         ██████░░░░░░░░░░░░░░░░░░░   23.76 % 
+🌆 Daytime                685 commits         ████████░░░░░░░░░░░░░░░░░   33.08 % 
+🌃 Evening                710 commits         █████████░░░░░░░░░░░░░░░░   34.28 % 
+🌙 Night                  184 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.88 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   293 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.72 % 
-Tuesday                  634 commits         ███████░░░░░░░░░░░░░░░░░░   29.68 % 
-Wednesday                331 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.50 % 
-Thursday                 456 commits         █████░░░░░░░░░░░░░░░░░░░░   21.35 % 
-Friday                   168 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.87 % 
-Saturday                 140 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.55 % 
-Sunday                   114 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.34 % 
+Monday                   276 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
+Tuesday                  620 commits         ███████░░░░░░░░░░░░░░░░░░   29.94 % 
+Wednesday                323 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.60 % 
+Thursday                 445 commits         █████░░░░░░░░░░░░░░░░░░░░   21.49 % 
+Friday                   158 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 % 
+Saturday                 134 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.47 % 
+Sunday                   115 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.55 % 
 ```
 
 
@@ -94,12 +94,12 @@ Sunday                   114 commits         █░░░░░░░░░░�
 Other                    0 secs              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  0 secs              █████████████░░░░░░░░░░░░   53.82 % 
-OpenClaw                 0 secs              ████████████░░░░░░░░░░░░░   46.18 % 
+OpenClaw                 0 secs              ██████████████░░░░░░░░░░░   54.59 % 
+VS Code                  0 secs              ███████████░░░░░░░░░░░░░░   45.41 % 
 
 🐱‍💻 Projects: 
-workspace                0 secs              ███████████████░░░░░░░░░░   61.41 % 
-Unknown Project          0 secs              ██████████░░░░░░░░░░░░░░░   38.59 % 
+workspace                0 secs              ██████████████████░░░░░░░   72.48 % 
+Unknown Project          0 secs              ███████░░░░░░░░░░░░░░░░░░   27.52 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -109,17 +109,17 @@ Unknown Project          0 secs              ██████████░�
 
 ✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
-🔤 76,218 Input Tokens, 1,007 Output Tokens
+🔤 64,022 Input Tokens, 750 Output Tokens
 
-💵 $0.42 Estimated AI Cost This Week
+💵 $0.35 Estimated AI Cost This Week
 
-🧠 9 AI Sessions, 5 AI Prompts
+🧠 7 AI Sessions, 4 AI Prompts
 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📚 Verbose Prompter — average 2,221 characters per prompt
+📚 Verbose Prompter — average 2,677 characters per prompt
 🎯 One-Shot Prompter — average 1 prompts per session
 🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
@@ -127,17 +127,17 @@ GPT                      0 lines             ░░░░░░░░░░░�
 **I Mostly Code in Python** 
 
 ```text
-Python                   7 repos             ████████░░░░░░░░░░░░░░░░░   33.33 % 
-Jupyter Notebook         6 repos             ███████░░░░░░░░░░░░░░░░░░   28.57 % 
-MATLAB                   2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
-PostScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
-TeX                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
+Python                   8 repos             █████████░░░░░░░░░░░░░░░░   34.78 % 
+Jupyter Notebook         6 repos             ███████░░░░░░░░░░░░░░░░░░   26.09 % 
+HTML                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
+MATLAB                   2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
+PostScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
 ```
 
 
 
 
- Last Updated on 10/10/2026 21:56:18 UTC
+ Last Updated on 11/10/2026 22:13:29 UTC
 <!--END_SECTION:waka-->
 
 ![Visitor Count](https://profile-counter.glitch.me/ChenYu-K/count.svg)

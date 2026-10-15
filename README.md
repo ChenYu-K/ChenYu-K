@@ -91,35 +91,35 @@ Sunday                   115 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Python                   27 mins             ████████████████░░░░░░░░░   63.99 % 
-Markdown                 8 mins              █████░░░░░░░░░░░░░░░░░░░░   19.68 % 
-Other                    5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.86 % 
-VBScript                 1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 % 
+Python                   27 mins             ████████████████░░░░░░░░░   64.95 % 
+Markdown                 8 mins              █████░░░░░░░░░░░░░░░░░░░░   19.98 % 
+Other                    4 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.55 % 
+VBScript                 1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 % 
 
 🔥 Editors: 
-Codex Vscode             34 mins             ████████████████████░░░░░   80.42 % 
-VS Code                  7 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.84 % 
-OpenClaw                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.03 % 
-Hermes                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
+Codex Vscode             34 mins             ████████████████████░░░░░   81.63 % 
+VS Code                  7 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.65 % 
+Hermes                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
+OpenClaw                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🐱‍💻 Projects: 
-openclaw                 34 mins             ████████████████████░░░░░   80.67 % 
-workspace                8 mins              █████░░░░░░░░░░░░░░░░░░░░   18.88 % 
-new-chat                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
+openclaw                 34 mins             ████████████████████░░░░░   81.88 % 
+workspace                7 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.65 % 
+new-chat                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 43 mins (100.0%)
+⏱ AI Coding Time: 42 mins (100.0%)
 
 ✍️ 224 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 440,656 Input Tokens, 39,838 Output Tokens
+🔤 367,160 Input Tokens, 39,344 Output Tokens
 
-💵 $4.98 Estimated AI Cost This Week
+💵 $4.57 Estimated AI Cost This Week
 
-🧠 21 AI Sessions, 21 AI Prompts
+🧠 13 AI Sessions, 15 AI Prompts
 
 GPT                      224 lines           █████████████████████████   100.00 % 
 Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
@@ -127,7 +127,7 @@ OpenClaw                 0 lines             ░░░░░░░░░░░�
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 1,883 characters per prompt
+📚 Verbose Prompter — average 1,914 characters per prompt
 🎯 One-Shot Prompter — average 1 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
@@ -145,7 +145,7 @@ PostScript               2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 14/10/2026 21:53:09 UTC
+ Last Updated on 15/10/2026 21:37:03 UTC
 <!--END_SECTION:waka-->
 
 ![Visitor Count](https://profile-counter.glitch.me/ChenYu-K/count.svg)

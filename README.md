@@ -91,43 +91,42 @@ Sunday                   115 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Python                   27 mins             ████████████████░░░░░░░░░   65.16 % 
-Markdown                 8 mins              █████░░░░░░░░░░░░░░░░░░░░   20.04 % 
-Other                    4 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.26 % 
-VBScript                 1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 % 
+Python                   27 mins             ██████████████████░░░░░░░   72.96 % 
+Markdown                 8 mins              ██████░░░░░░░░░░░░░░░░░░░   22.44 % 
+VBScript                 1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
 
 🔥 Editors: 
-Codex Vscode             34 mins             ████████████████████░░░░░   81.89 % 
-VS Code                  7 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.39 % 
-Hermes                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
+Codex Vscode             34 mins             ███████████████████████░░   91.69 % 
+VS Code                  2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.50 % 
+Hermes                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
 
 🐱‍💻 Projects: 
-openclaw                 34 mins             █████████████████████░░░░   82.14 % 
-workspace                7 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.39 % 
-new-chat                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
+openclaw                 34 mins             ███████████████████████░░   91.97 % 
+workspace                2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.50 % 
+new-chat                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 42 mins (100.0%)
+⏱ AI Coding Time: 37 mins (100.0%)
 
 ✍️ 224 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 342,768 Input Tokens, 38,714 Output Tokens
+🔤 342,424 Input Tokens, 38,530 Output Tokens
 
 💵 $4.43 Estimated AI Cost This Week
 
-🧠 10 AI Sessions, 13 AI Prompts
+🧠 4 AI Sessions, 11 AI Prompts
 
 GPT                      224 lines           █████████████████████████   100.00 % 
 Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-OpenClaw                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 2,133 characters per prompt
-🎯 One-Shot Prompter — average 1 prompts per session
+📄 Detailed Prompter — average 753 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -144,7 +143,7 @@ PostScript               2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 16/10/2026 21:29:50 UTC
+ Last Updated on 17/10/2026 20:49:02 UTC
 <!--END_SECTION:waka-->
 
 ![Visitor Count](https://profile-counter.glitch.me/ChenYu-K/count.svg)

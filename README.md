@@ -60,9 +60,9 @@
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-610%20hrs%2013%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-610%20hrs%2021%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-63%20hrs%2053%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-64%20hrs%2024%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
@@ -91,19 +91,39 @@ Sunday                   122 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Other                    31 mins             ████████████████████░░░░░   80.14 % 
+Markdown                 7 mins              █████░░░░░░░░░░░░░░░░░░░░   19.86 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  39 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Unknown Project          26 mins             █████████████████░░░░░░░░   66.85 % 
+pcd_LLM                  7 mins              █████░░░░░░░░░░░░░░░░░░░░   19.79 % 
+hermes                   2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.01 % 
+readme.md                2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.35 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 31 mins (80.21%)
+
+✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
+
+🔤 64,610 Input Tokens, 678 Output Tokens
+
+💵 $0.15 Estimated AI Cost This Week
+
+🧠 3 AI Sessions, 8 AI Prompts
+
+Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
+📚 Verbose Prompter — average 2,229 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -119,7 +139,7 @@ PostScript               2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 24/10/2026 21:02:34 UTC
+ Last Updated on 25/10/2026 21:02:31 UTC
 <!--END_SECTION:waka-->
 
 ![Visitor Count](https://profile-counter.glitch.me/ChenYu-K/count.svg)

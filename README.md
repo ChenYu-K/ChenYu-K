@@ -129,17 +129,17 @@ Sonnet                   0 lines             ░░░░░░░░░░░�
 **I Mostly Code in Python** 
 
 ```text
-Python                   8 repos             █████████░░░░░░░░░░░░░░░░   34.78 % 
-Jupyter Notebook         6 repos             ███████░░░░░░░░░░░░░░░░░░   26.09 % 
-HTML                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
-MATLAB                   2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
-PostScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
+Python                   9 repos             █████████░░░░░░░░░░░░░░░░   37.50 % 
+Jupyter Notebook         6 repos             ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
+HTML                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
+MATLAB                   2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
+PostScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
 ```
 
 
 
 
- Last Updated on 25/10/2026 21:02:31 UTC
+ Last Updated on 26/10/2026 22:50:09 UTC
 <!--END_SECTION:waka-->
 
 ![Visitor Count](https://profile-counter.glitch.me/ChenYu-K/count.svg)

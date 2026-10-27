@@ -91,38 +91,38 @@ Sunday                   122 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Other                    31 mins             ████████████████████░░░░░   80.14 % 
-Markdown                 7 mins              █████░░░░░░░░░░░░░░░░░░░░   19.86 % 
+Other                    34 mins             ████████████████████░░░░░   81.67 % 
+Markdown                 7 mins              █████░░░░░░░░░░░░░░░░░░░░   18.33 % 
 
 🔥 Editors: 
-VS Code                  39 mins             █████████████████████████   100.00 % 
+VS Code                  42 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Unknown Project          26 mins             █████████████████░░░░░░░░   66.85 % 
-pcd_LLM                  7 mins              █████░░░░░░░░░░░░░░░░░░░░   19.79 % 
-hermes                   2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.01 % 
-readme.md                2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.35 % 
+Unknown Project          29 mins             █████████████████░░░░░░░░   68.96 % 
+pcd_LLM                  7 mins              █████░░░░░░░░░░░░░░░░░░░░   18.26 % 
+hermes                   2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.47 % 
+readme.md                2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.30 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 31 mins (80.21%)
+⏱ AI Coding Time: 34 mins (81.74%)
 
 ✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
-🔤 64,610 Input Tokens, 678 Output Tokens
+🔤 101,111 Input Tokens, 1,034 Output Tokens
 
-💵 $0.15 Estimated AI Cost This Week
+💵 $0.24 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 8 AI Prompts
+🧠 6 AI Sessions, 14 AI Prompts
 
 Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📚 Verbose Prompter — average 2,229 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
+📚 Verbose Prompter — average 2,510 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
 🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
@@ -139,7 +139,7 @@ PostScript               2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 26/10/2026 22:50:09 UTC
+ Last Updated on 27/10/2026 22:29:39 UTC
 <!--END_SECTION:waka-->
 
 ![Visitor Count](https://profile-counter.glitch.me/ChenYu-K/count.svg)

@@ -62,7 +62,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-610%20hrs%2021%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-64%20hrs%2024%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-64%20hrs%2025%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
@@ -91,37 +91,37 @@ Sunday                   122 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Other                    34 mins             ████████████████████░░░░░   81.67 % 
-Markdown                 7 mins              █████░░░░░░░░░░░░░░░░░░░░   18.33 % 
+Other                    31 mins             ████████████████████░░░░░   80.33 % 
+Markdown                 7 mins              █████░░░░░░░░░░░░░░░░░░░░   19.67 % 
 
 🔥 Editors: 
-VS Code                  42 mins             █████████████████████████   100.00 % 
+VS Code                  39 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Unknown Project          29 mins             █████████████████░░░░░░░░   68.96 % 
-pcd_LLM                  7 mins              █████░░░░░░░░░░░░░░░░░░░░   18.26 % 
-hermes                   2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.47 % 
-readme.md                2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.30 % 
+Unknown Project          26 mins             █████████████████░░░░░░░░   66.69 % 
+pcd_LLM                  7 mins              █████░░░░░░░░░░░░░░░░░░░░   19.60 % 
+hermes                   2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.95 % 
+readme.md                2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.76 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 34 mins (81.74%)
+⏱ AI Coding Time: 32 mins (80.4%)
 
 ✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
-🔤 101,111 Input Tokens, 1,034 Output Tokens
+🔤 137,896 Input Tokens, 1,396 Output Tokens
 
-💵 $0.24 Estimated AI Cost This Week
+💵 $0.32 Estimated AI Cost This Week
 
-🧠 6 AI Sessions, 14 AI Prompts
+🧠 6 AI Sessions, 12 AI Prompts
 
 Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📚 Verbose Prompter — average 2,510 characters per prompt
+📚 Verbose Prompter — average 4,362 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
 🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
@@ -139,7 +139,7 @@ PostScript               2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 27/10/2026 22:29:39 UTC
+ Last Updated on 28/10/2026 22:46:07 UTC
 <!--END_SECTION:waka-->
 
 ![Visitor Count](https://profile-counter.glitch.me/ChenYu-K/count.svg)

@@ -60,9 +60,9 @@
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-610%20hrs%2021%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-610%20hrs%2036%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-64%20hrs%2025%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-64%20hrs%2049%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
@@ -91,39 +91,43 @@ Sunday                   122 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Other                    31 mins             ████████████████████░░░░░   80.33 % 
-Markdown                 7 mins              █████░░░░░░░░░░░░░░░░░░░░   19.67 % 
+Other                    41 mins             ████████████████░░░░░░░░░   64.42 % 
+Markdown                 18 mins             ███████░░░░░░░░░░░░░░░░░░   28.97 % 
+Python                   2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 % 
+YAML                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.32 % 
 
 🔥 Editors: 
-VS Code                  39 mins             █████████████████████████   100.00 % 
+VS Code                  1 hr 4 mins         █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Unknown Project          26 mins             █████████████████░░░░░░░░   66.69 % 
-pcd_LLM                  7 mins              █████░░░░░░░░░░░░░░░░░░░░   19.60 % 
-hermes                   2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.95 % 
-readme.md                2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.76 % 
+Unknown Project          26 mins             ██████████░░░░░░░░░░░░░░░   41.30 % 
+workspace                15 mins             ██████░░░░░░░░░░░░░░░░░░░   23.38 % 
+openclaw                 8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.72 % 
+pcd_LLM                  7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.13 % 
+hermes                   2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 32 mins (80.4%)
+⏱ AI Coding Time: 56 mins (87.87%)
 
-✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
+✍️ 322 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 137,896 Input Tokens, 1,396 Output Tokens
+🔤 663,921 Input Tokens, 29,967 Output Tokens
 
-💵 $0.32 Estimated AI Cost This Week
+💵 $2.01 Estimated AI Cost This Week
 
-🧠 5 AI Sessions, 10 AI Prompts
+🧠 9 AI Sessions, 19 AI Prompts
 
+GPT                      323 lines           █████████████████████████   100.00 % 
 Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📚 Verbose Prompter — average 5,231 characters per prompt
+🤖 AI-Driven — 100.0% of written lines came from AI
+📚 Verbose Prompter — average 3,746 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 0% of changed lines were hand-edited
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -139,7 +143,7 @@ PostScript               2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 29/10/2026 22:56:28 UTC
+ Last Updated on 30/10/2026 22:33:05 UTC
 <!--END_SECTION:waka-->
 
 ![Visitor Count](https://profile-counter.glitch.me/ChenYu-K/count.svg)
